@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+Debet - debetvip.club - Nhà cái cá cược uy tín hàng đầu Châu Âu
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Debet <https://debetvip.club/>`_ là nhà cái cá cược trực tuyến uy tín hàng đầu Châu Âu, cung cấp đa dạng các sản phẩm cá cược và dịch vụ giải trí chất lượng cao cho người chơi Việt Nam. Với hơn 10 năm kinh nghiệm hoạt động trong lĩnh vực cá cược trực tuyến, Debet đã khẳng định được vị thế của mình trên thị trường và thu hút được đông đảo người chơi tham gia. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Địa chỉ: 92/9 Đường số 6E, Tân Thuận Tây, Quận 7, Thành phố Hồ Chí Minh, Việt Nam. 
 
-.. note::
+Phone: 0916972354.
 
-   This project is under active development.
+Email: info@debetvip.club.
 
-Contents
---------
+Website: https://debetvip.club/
 
-.. toctree::
-
-   usage
-   api
+#debet #nhacaidebet #debetvipclub #linkdebet
